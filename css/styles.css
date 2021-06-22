@@ -40,5 +40,8 @@ textarea{
   background-color: #E8F0F2;
 }
 div{
+
+  margin: auto;
+  width: 95%;
   background-color: #39A2DB;
 }
