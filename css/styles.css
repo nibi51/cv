@@ -1,5 +1,5 @@
 body{
-  background-color:#CDF0EA;
+  background-color:#A6D6D6;
 }
 hr{
   border-style:dotted none none;
@@ -23,6 +23,10 @@ a {
 
 }
 
+.hd{
+  color: white;
+}
+
 input{
   border-style:solid solid solid;
   border-width: 1px;
@@ -34,4 +38,7 @@ textarea{
   border-style:solid solid solid;
   border-color: #39A2DB;
   background-color: #E8F0F2;
+}
+div{
+  background-color: #39A2DB;
 }
